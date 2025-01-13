@@ -12,6 +12,7 @@ This web application fetches and displays the current weather conditions based o
  Technologies Used
 
   -------------------------HTML---------------------------------
+
 Structure of the web page.
 - **CSS**: Styling for a clean and modern look.
 - **JavaScript**: Fetching data from the API and updating the UI.
